@@ -6,3 +6,4 @@ sqt.py
 *.tgs
 log*.txt
 __pycache__
+venv
